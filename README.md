@@ -7,3 +7,4 @@ This code uses the 'subprocess.run' function to execute the 'speedtest-cli' comm
 To use this code, you need to install the 'speedtest-cli ' library using the ' py -m pip install speedtest-cli ' command.
 
 After installing the library, you can run the Python script from the console and follow the on-screen instructions to check the speed of your Internet connection
+
